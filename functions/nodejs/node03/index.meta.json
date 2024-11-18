@@ -1,0 +1,16 @@
+{
+  "apiID": "package_fe3af4__c__function_aadhhlqplf2fw",
+  "apiName": "node03",
+  "label": {
+    "zh_CN": "node03",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
